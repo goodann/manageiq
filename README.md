@@ -73,3 +73,9 @@ software or technical information to individuals or entities located in one of
 these countries or otherwise subject to these restrictions. You are also
 responsible for compliance with foreign law requirements applicable to the
 import, export and use of ManageIQ software and technical information.
+
+# Error
+워커가 실행이 안됨(openstack워커이후로 다 실행이안됨)
+ruby qpid_proton을 찾을 수 없음
+=> qpid_proton설치 중 https://qpid.apache.org/proton/
+설치 후 gem install qpid_proton
