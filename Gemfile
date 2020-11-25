@@ -29,6 +29,7 @@ gem "activerecord-session_store",     "~>1.1"
 gem "acts_as_tree",                   "~>2.7" # acts_as_tree needs to be required so that it loads before ancestry
 gem "ancestry",                       "~>3.0.7",       :require => false
 gem "aws-sdk-s3",                     "~>1.0",         :require => false # For FileDepotS3
+gem "aws-sdk-costexplorer",           "~>1.52.0",      :require => false
 gem "bcrypt",                         "~> 3.1.10",     :require => false
 gem "bundler",                        ">=1.15",        :require => false
 gem "byebug",                                          :require => false

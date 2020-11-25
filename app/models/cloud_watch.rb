@@ -1,0 +1,1 @@
+::CloudWatch = ::ManageIQ::Providers::CloudManager

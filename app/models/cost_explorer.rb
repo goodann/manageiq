@@ -1,0 +1,1 @@
+CostExplorer = ::ManageIQ::Providers::CloudManager
